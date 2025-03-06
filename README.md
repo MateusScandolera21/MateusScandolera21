@@ -1,4 +1,4 @@
-# Olá, eu sou Mateus Scandolera! 👋
+# Olá, eu sou o Mateus Scandolera! 👋
 
 ## Sobre mim
 - 🔭 Atualmente trabalhando no TechNexus.
