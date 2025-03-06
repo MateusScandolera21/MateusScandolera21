@@ -16,7 +16,6 @@
 ![QA](https://img.shields.io/badge/QA-000000?style=for-the-badge&logo=quality-assurance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-scandolera-de-sousa-9b3110197)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-scandolera-de-sousa-9b3110197) -->
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MateusScandolera21&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusScandolera21&layout=compact&theme=radical)
