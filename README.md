@@ -19,4 +19,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-scandolera-de-sousa-9b3110197)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MateusScandolera21&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MateusScandolera21&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusScandolera21&layout=compact&theme=radical)
