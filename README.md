@@ -1,5 +1,5 @@
 # E aí! Me chamo Mateus Scandolera!
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End & Quality Assurance`**
 
 ## Sobre mim
 - 🔭 Atualmente trabalhando no TechNexus, meu projeto de TCC.
