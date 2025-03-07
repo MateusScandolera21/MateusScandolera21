@@ -1,7 +1,8 @@
-# Olá, eu sou o Mateus Scandolera! 👋
+# E aí! Me chamo Mateus Scandolera!
+**`Desenvolvedor Back-End`**
 
 ## Sobre mim
-- 🔭 Atualmente trabalhando no TechNexus.
+- 🔭 Atualmente trabalhando no TechNexus, meu projeto de TCC.
 - 🌱 Aprendendo React e Node.
 - 👯 Procuro colaborar com desenvolvimento backend e quality assurance.
 - 📫 Como me encontrar: mateus.scandolera@gmail.com
