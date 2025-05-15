@@ -3,7 +3,7 @@
 
 ## Sobre mim
 - 🔭 Atualmente trabalhando no TechNexus, meu projeto de TCC.
-- 🌱 Aprendendo React e Node.
+- 🌱 Aprendendo Flutter.
 - 👯 Procuro colaborar com desenvolvimento backend e quality assurance.
 - 📫 Como me encontrar: mateus.scandolera@gmail.com
 - 🚀 Apaixonado por tecnologia!
