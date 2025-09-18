@@ -1,13 +1,13 @@
 # E aí! Me chamo Mateus Scandolera!
-**`Desenvolvedor Back-End & Quality Assurance`**
+**`Desenvolvedor Back-End`**
 
 ## Sobre mim
 - 🔭 Atualmente trabalhando no TechNexus, meu projeto de TCC.
-- 🌱 Aprendendo Flutter.
 - 👯 Procuro colaborar com desenvolvimento backend e quality assurance.
 - 📫 Como me encontrar: mateus.scandolera@gmail.com
 - 🚀 Apaixonado por tecnologia!
 
+## Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
