@@ -1,8 +1,8 @@
 # E aí! Me chamo Mateus Scandolera!
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End e Quality Assurance`**
 
 ## Sobre mim
-- 🔭 Atualmente trabalhando no TechNexus, meu projeto de TCC.
+- 🔭 Atualmente trabalhando no TechNexus.
 - 👯 Procuro colaborar com desenvolvimento backend e quality assurance.
 - 📫 Como me encontrar: mateus.scandolera@gmail.com
 - 🚀 Apaixonado por tecnologia!
@@ -22,5 +22,3 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-scandolera-de-sousa-9b3110197)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MateusScandolera21&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusScandolera21&layout=compact&theme=radical)
