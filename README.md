@@ -2,7 +2,7 @@
 **`Desenvolvedor Back-End e Quality Assurance`**
 
 ## Sobre mim
-- 🔭 Atualmente trabalhando no TechNexus.
+- 🔭 Atualmente trabalhando no QA Flow.
 - 👯 Procuro colaborar com desenvolvimento backend e quality assurance.
 - 📫 Como me encontrar: mateus.scandolera@gmail.com
 - 🚀 Apaixonado por tecnologia!
